@@ -1,5 +1,5 @@
-##Brainstorming requirements
-##Server
+#Brainstorming requirements
+#Server
 Readability and ease of use
 Prediction analytics of new popular software development
 Support for multiple langauges
