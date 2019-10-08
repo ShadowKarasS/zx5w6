@@ -34,7 +34,7 @@ def test_disable_f():
     assert course_status == 'not-active'
 
 def test_save():
-    new_changed_saved = manage.check_save()
+    new_change_saved = manage.check_save()
     assert new_change_saved == 'true'
 
 def test_save_f():
